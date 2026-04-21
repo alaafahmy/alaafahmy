@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hello, I'm Alaa (Alaa Soft)
 
-<!--
-**alaafahmy/alaafahmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛡️ Cybersecurity Graduate | Network Engineer | Software Designer
 
-Here are some ideas to get you started:
+I am a professional security researcher and developer focused on building and securing digital environments. My work combines software craftsmanship with rigorous security analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Professional Background
+* **Founder of Alaa Soft:** Independent Software & Web Development providing high-quality digital solutions.
+* **Network Engineer:** Designing and securing robust network architectures.
+* **Software Designer:** Creating intuitive and functional systems and applications.
+
+---
+
+### 🔒 Technical Focus & Expertise
+* **Application Security (AppSec):** Protecting software throughout the SDLC.
+* **Vulnerability Analysis:** Identifying and mitigating security flaws.
+* **SAST & Secure Coding:** Implementing Static Application Security Testing and writing resilient code.
+* **Network Security:** Monitoring and hardening infrastructure against threats.
+
+---
+
+### 🛠️ Tools & Technologies
+* **Security:** SAST Tools, Vulnerability Scanners, Network Monitoring.
+* **Development:** Web Development, System Design.
+* **Operating Systems:** Windows (Client & Server), Linux (Kali, Ubuntu).
+
+---
+
+### 📫 Connect with me
+* **Email:** [al.alaa.soft@gmail.com](mailto:al.alaa.soft@gmail.com)
