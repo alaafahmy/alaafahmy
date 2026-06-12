@@ -28,5 +28,5 @@ I am a professional security researcher and developer focused on building and se
 
 ---
 
-### 📫 Connect with me
+### 📫 Connect with me:
 * **Email:** [al.alaa.soft@gmail.com](mailto:al.alaa.soft@gmail.com)
