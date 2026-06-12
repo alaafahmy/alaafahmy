@@ -2,7 +2,7 @@
 
 ### 🛡️ Cybersecurity Graduate | Network Engineer | Software Designer
 
-I am a professional security researcher and developer focused on building and securing digital environments. My work combines software craftsmanship with rigorous security analysis.
+I am a security researcher and developer focused on building and securing digital environments. My work combines software craftsmanship with rigorous security analysis.
 
 ---
 
